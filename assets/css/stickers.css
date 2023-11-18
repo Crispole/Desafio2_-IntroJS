@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 70px;
+}
+
+.arbol {
+    width: 400px;
+}
+
+#n1, #n2, #n3 {
+    width: 200px;
+    margin-left: 90px;
+}
+
+.btn {
+    margin-left: 650px;
+    width: 200px;
+    height: 50px;
+}
+
+#par {
+    display: flex;
+    justify-content: space-around;
+}
